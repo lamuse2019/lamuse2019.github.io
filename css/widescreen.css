@@ -35,9 +35,8 @@ body{
 
 .carousel{
   margin: auto;
-  margin-bottom: 30vh;
+  margin-bottom: 15vh;
   width: 40vw;
-  height: 40vh;
 }
 
 .carousel-item > img{
@@ -65,9 +64,8 @@ body{
   margin-top: auto;
 }
 
-.headtitle{
-  margin-top: 7vh;
-  margin-bottom: 7vh;
+.headtitle > img {
+  max-height: 30vh;
 }
 
 .social{

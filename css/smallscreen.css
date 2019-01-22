@@ -33,6 +33,10 @@ body{
   max-width: 80vw;
 }
 
+.carousel-item > img{
+  max-height: 70vw;
+}
+
 .videoplayer{
   max-width: 80vw;
   margin-bottom: 10vh;
@@ -57,11 +61,6 @@ body{
 .col-sm-4 img{
   max-width: 50vw;
   margin-top: auto;
-}
-
-.headtitle{
-  margin-top: 7vh;
-  margin-bottom: 7vh;
 }
 
 .social{
