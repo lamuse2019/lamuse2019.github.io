@@ -86,7 +86,7 @@ body{
   max-width: 3vw;
 }
 
-.albumcover{
+.albumc > img{
   max-width: 36vw;
   margin-top: 7vh;
   margin-bottom:10vh;
